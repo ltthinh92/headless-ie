@@ -1,0 +1,8 @@
+D:\work\projects\Template\IE\IE\bin\Debug\IE.exe
+D:\work\projects\Template\IE\IE\bin\Debug\IE.pdb
+D:\work\projects\Template\IE\IE\obj\Debug\IE.csprojResolveAssemblyReference.cache
+D:\work\projects\Template\IE\IE\obj\Debug\IE.frmMain.resources
+D:\work\projects\Template\IE\IE\obj\Debug\IE.Properties.Resources.resources
+D:\work\projects\Template\IE\IE\obj\Debug\IE.csproj.GenerateResource.Cache
+D:\work\projects\Template\IE\IE\obj\Debug\IE.exe
+D:\work\projects\Template\IE\IE\obj\Debug\IE.pdb
